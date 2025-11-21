@@ -4,4 +4,8 @@ Monty Python and the Holy Grail
 =======
 Nueva Pelicula
 >>>>>>> 2c309eb876ae8282f90e04baa5f928ee0597f2a5
+<<<<<<< HEAD
 Indiana Jones y el ejemplo de añadir una pelicula
+=======
+El sentido de la vida
+>>>>>>> 7cc97fc (Nueva Pelicula)
